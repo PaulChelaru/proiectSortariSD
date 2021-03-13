@@ -12,3 +12,9 @@
   4) vectori aproape sortati descrescator </br>
   5) vectori aproape sortati crescator </br>
   6) vectori constanti </br>
+
+<ul>
+  <li> dasd </li>
+    <li> dasd </li>
+    <li> dasd </li>
+</ul>
